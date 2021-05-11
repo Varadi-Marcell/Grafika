@@ -23,7 +23,7 @@ S - Hátra
 
 D - Jobbra
 
-A - Ballra
+A - Balra
 
 E - Fel
 
