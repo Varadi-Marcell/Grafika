@@ -29,7 +29,7 @@ E - Fel
 
 Q - Le
 
-N - Ballra forgás
+N - Balra forgás
 
 M - Jobbra forgás
 
